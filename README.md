@@ -1,4 +1,4 @@
-# Profesional Certificate For Data Science By Coursera
+# Profesional Certificate powered by IBM Data Science 
 
 This repo about all exercise and project in Coursera Profesional Certificate with subject matter.
 
